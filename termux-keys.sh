@@ -8,6 +8,20 @@ pip install lolcat
 gem install lolcat
 apt-get install ncurses-utils -yq --silent
 clear
+
+# video tutorial
+video_tutorial() {
+echo -en "\e[92m Do you wish to see a practical video on it (y/n)? \e[m "
+read answer
+if [ "$answer" != "${answer#[Yy]}" ] ;then
+am start -a android.intent.action.VIEW -d https://youtu.be/MLqdeKat5DU
+else                                                                                  
+echo
+fi
+}
+
+video_tutorial
+
 echo " "
 echo " "
 echo "           < ━━━━━━━━━━━━ [★] CREATED BY ASHISH [★] ━━━━━━━━━━━━ > " |lolcat
