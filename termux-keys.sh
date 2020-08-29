@@ -27,6 +27,7 @@ clear
 
 video_tutorial
 
+sleep 7
 echo " "
 echo " "
 echo "           < ━━━━━━━━━━━━ [★] CREATED BY ASHISH [★] ━━━━━━━━━━━━ > " |lolcat
