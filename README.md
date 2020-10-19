@@ -67,13 +67,16 @@ $ termux-setup-storage && pkg update && pkg upgrade && pkg install git -y && git
 ![Screenshot_20200829_115232](https://user-images.githubusercontent.com/64035221/91630536-c59bd080-e9ef-11ea-8a1d-cc6944fff6a6.jpg)
 ***
 
-### Development by
+## Development by :-
 
-Developer / Author: [Ashish]() / [Bhavik Oza](https://github.com/Bhaviktutorials/)
+## Developer / Author: Ashish / [Bhavik Oza](https://github.com/Bhaviktutorials/)
 
-Company: [Bhavik Tutorials](https://www.youtube.com/bhaviktutorials)
+## Company: [Bhavik Tutorials](https://www.youtube.com/bhaviktutorials)
 
-## To Know about Ethical Hacking , Android And Kali Linux Do Follow Us:-
 
-[![Github](https://github.frapsoft.com/social/github.png)](https://github.com/Bhaviktutorials/)
-[![Youtube](https://www.youtube.com/bhaviktutorials)](https://user-images.githubusercontent.com/64035221/89710200-6f161600-d99e-11ea-9bee-0891b79f7865.png)
+## To Know about Ethical Hacking , Android And Kali Linux Do Follow Us:
+
+<a href="https://github.com/Bhaviktutorials/"><img src="https://user-images.githubusercontent.com/64035221/96459220-834c7e00-123f-11eb-8417-534058a7ba62.png" alt="GitHub" width="110" height="110">
+<a href="https://www.youtube.com/channel/UCMhYgk0-nIHHtnRNkL9zpgQ"><img src="https://user-images.githubusercontent.com/64035221/96456596-4f238e00-123c-11eb-821e-85e9aaa3faec.png" alt="YouTube" width="110" height="110">
+<a href="https://t.me/bhaviktutorial"><img src="https://user-images.githubusercontent.com/64035221/96461243-c576bf00-1241-11eb-8fdf-139b4859bfb0.png" alt="Telegram" width="80" height="80">
+<a href="https://www.instagram.com/bhavik_tutorials/"><img src="https://user-images.githubusercontent.com/64035221/96461629-3d44e980-1242-11eb-8691-46dd14355085.png" alt="Instagram" width="90" height="90">
